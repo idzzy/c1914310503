@@ -1,2 +1,2 @@
 FROM amazonlinux
-CP test.txt /tmp/
+COPY test.txt /tmp/
